@@ -1,2 +1,3 @@
 #!/bin/bash
 mov /tmp/betty /tmp/my_first_directory/
+mov /tmp/betty /tmp/my_first_directory/betty
